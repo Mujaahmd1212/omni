@@ -1,0 +1,6 @@
+{
+  "name": "OmniPOS Cloud - Multi-Enterprise SaaS Platform",
+  "description": "Enterprise-grade multi-tenant, multi-branch modular POS SaaS platform with granular RBAC, barcode generation & printing, real-time inventory, sales, purchasing, and dedicated industry modules (Restaurant, Pharmacy, Hotel, Hardware, Electronics).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
